@@ -3,77 +3,77 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice101", "1.一番基本的な処理\Practice101\Practice101.csproj", "{CA5FADB2-EDFD-4D40-B66C-AAA20C73929A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice101", "1.一番基本的な処理\Practice101\Practice101.csproj", "{CA5FADB2-EDFD-4D40-B66C-AAA20C73929A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice102", "1.一番基本的な処理\Practice102\Practice102.csproj", "{93FD4669-E245-4B7A-A8AF-D0B8FE8095DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice102", "1.一番基本的な処理\Practice102\Practice102.csproj", "{93FD4669-E245-4B7A-A8AF-D0B8FE8095DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice103", "1.一番基本的な処理\Practice103\Practice103.csproj", "{56D404CB-5CE5-42EC-AB15-20D026428585}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice103", "1.一番基本的な処理\Practice103\Practice103.csproj", "{56D404CB-5CE5-42EC-AB15-20D026428585}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice104", "1.一番基本的な処理\Practice104\Practice104.csproj", "{11B15AC9-53F6-4033-A8F1-A4EA40430961}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice104", "1.一番基本的な処理\Practice104\Practice104.csproj", "{11B15AC9-53F6-4033-A8F1-A4EA40430961}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice105", "1.一番基本的な処理\Practice105\Practice105.csproj", "{016C5B94-4654-4286-B22E-CC754D1EB120}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice105", "1.一番基本的な処理\Practice105\Practice105.csproj", "{016C5B94-4654-4286-B22E-CC754D1EB120}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice201", "2.変数と演算\Practice201\Practice201.csproj", "{21604C5E-4FE2-49EA-ABF7-37581E949F24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice201", "2.変数と演算\Practice201\Practice201.csproj", "{21604C5E-4FE2-49EA-ABF7-37581E949F24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice202", "2.変数と演算\Practice202\Practice202.csproj", "{B518BE1A-DE5D-4155-98E5-81794F132629}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice202", "2.変数と演算\Practice202\Practice202.csproj", "{B518BE1A-DE5D-4155-98E5-81794F132629}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice203", "2.変数と演算\Practice203\Practice203.csproj", "{4989C12F-9C1B-4D3D-80D6-33C45002E38D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice203", "2.変数と演算\Practice203\Practice203.csproj", "{4989C12F-9C1B-4D3D-80D6-33C45002E38D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice205", "2.変数と演算\Practice205\Practice205.csproj", "{B1390DD1-74BD-466B-9572-1AE669ECF3F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice205", "2.変数と演算\Practice205\Practice205.csproj", "{B1390DD1-74BD-466B-9572-1AE669ECF3F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice301", "3.条件分岐\Practice301\Practice301.csproj", "{84424E8C-90C6-4787-BC65-2236BABA45E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice301", "3.条件分岐\Practice301\Practice301.csproj", "{84424E8C-90C6-4787-BC65-2236BABA45E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice302", "3.条件分岐\Practice302\Practice302.csproj", "{4A818380-F0BD-48D0-808D-1367D8085FC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice302", "3.条件分岐\Practice302\Practice302.csproj", "{4A818380-F0BD-48D0-808D-1367D8085FC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice303", "3.条件分岐\Practice303\Practice303.csproj", "{653C6C3F-AE05-4B77-AD3E-0D3E1551B84A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice303", "3.条件分岐\Practice303\Practice303.csproj", "{653C6C3F-AE05-4B77-AD3E-0D3E1551B84A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice304", "3.条件分岐\Practice304\Practice304.csproj", "{A16A01B1-3493-4DB3-BA30-51F0B56D5909}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice304", "3.条件分岐\Practice304\Practice304.csproj", "{A16A01B1-3493-4DB3-BA30-51F0B56D5909}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice305", "3.条件分岐\Practice305\Practice305.csproj", "{D8D38ADF-C6FF-4B77-9F27-46973297FB49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice305", "3.条件分岐\Practice305\Practice305.csproj", "{D8D38ADF-C6FF-4B77-9F27-46973297FB49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice306", "3.条件分岐\Practice306\Practice306.csproj", "{68F4900B-8583-4424-928A-40C6ED953051}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice306", "3.条件分岐\Practice306\Practice306.csproj", "{68F4900B-8583-4424-928A-40C6ED953051}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice307", "3.条件分岐\Practice307\Practice307.csproj", "{86B1674A-5CEB-48EC-8B9A-AA07E375315F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice307", "3.条件分岐\Practice307\Practice307.csproj", "{86B1674A-5CEB-48EC-8B9A-AA07E375315F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice308", "3.条件分岐\Practice308\Practice308.csproj", "{FBC0A036-58F5-49CC-83BA-ADBD7C4D3E63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice308", "3.条件分岐\Practice308\Practice308.csproj", "{FBC0A036-58F5-49CC-83BA-ADBD7C4D3E63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice401", "4.繰り返し\Practice401\Practice401.csproj", "{2BD3BFEC-5682-4714-A8EA-F103B422789D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice401", "4.繰り返し\Practice401\Practice401.csproj", "{2BD3BFEC-5682-4714-A8EA-F103B422789D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice402", "4.繰り返し\Practice402\Practice402.csproj", "{C9A9FA0C-CEE8-4036-86AB-9C1069DC460D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice402", "4.繰り返し\Practice402\Practice402.csproj", "{C9A9FA0C-CEE8-4036-86AB-9C1069DC460D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice403", "4.繰り返し\Practice403\Practice403.csproj", "{E78A1280-E1D3-4CA6-A7D2-61038D09AA6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice403", "4.繰り返し\Practice403\Practice403.csproj", "{E78A1280-E1D3-4CA6-A7D2-61038D09AA6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice404", "4.繰り返し\Practice404\Practice404.csproj", "{034EBA38-9E76-4A3F-B848-BFE1C1C65A73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice404", "4.繰り返し\Practice404\Practice404.csproj", "{034EBA38-9E76-4A3F-B848-BFE1C1C65A73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice405", "4.繰り返し\Practice405\Practice405.csproj", "{010F83F0-5B5F-440B-92A3-56350A597E53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice405", "4.繰り返し\Practice405\Practice405.csproj", "{010F83F0-5B5F-440B-92A3-56350A597E53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice406", "4.繰り返し\Practice406\Practice406.csproj", "{46923B0E-6A98-4670-8747-2FA5A5A30BF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice406", "4.繰り返し\Practice406\Practice406.csproj", "{46923B0E-6A98-4670-8747-2FA5A5A30BF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice407", "4.繰り返し\Practice407\Practice407.csproj", "{60CA6C52-7704-4BCC-B269-EB8890ECEB8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice407", "4.繰り返し\Practice407\Practice407.csproj", "{60CA6C52-7704-4BCC-B269-EB8890ECEB8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice408", "4.繰り返し\Practice408\Practice408.csproj", "{0E44F35C-1B3B-4ABB-B7FF-88C150018F85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice408", "4.繰り返し\Practice408\Practice408.csproj", "{0E44F35C-1B3B-4ABB-B7FF-88C150018F85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice409", "4.繰り返し\Practice409\Practice409.csproj", "{043B83F7-E77F-43DA-BDD0-E68F90AF8F7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice409", "4.繰り返し\Practice409\Practice409.csproj", "{043B83F7-E77F-43DA-BDD0-E68F90AF8F7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice410", "4.繰り返し\Practice410\Practice410.csproj", "{B6BD35A4-60B9-4C51-A051-BD3D5A20F7EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice410", "4.繰り返し\Practice410\Practice410.csproj", "{B6BD35A4-60B9-4C51-A051-BD3D5A20F7EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice411", "4.繰り返し\Practice411\Practice411.csproj", "{9F7DB830-0B91-4C71-9F25-92321E315680}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice411", "4.繰り返し\Practice411\Practice411.csproj", "{9F7DB830-0B91-4C71-9F25-92321E315680}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice412", "4.繰り返し\Practice412\Practice412.csproj", "{175150A1-4CD7-4135-8497-B487587E28D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice412", "4.繰り返し\Practice412\Practice412.csproj", "{175150A1-4CD7-4135-8497-B487587E28D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice413", "4.繰り返し\Practice413\Practice413.csproj", "{66043AEE-6CED-448B-8A9A-A755B3EB9D84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice413", "4.繰り返し\Practice413\Practice413.csproj", "{66043AEE-6CED-448B-8A9A-A755B3EB9D84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice414", "4.繰り返し\Practice414\Practice414.csproj", "{1F14442C-C64C-4EE6-92E5-9742A6EE8805}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice414", "4.繰り返し\Practice414\Practice414.csproj", "{1F14442C-C64C-4EE6-92E5-9742A6EE8805}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice415", "4.繰り返し\Practice415\Practice415.csproj", "{6365BCAF-019D-4FB2-9A09-219D8835E451}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice415", "4.繰り返し\Practice415\Practice415.csproj", "{6365BCAF-019D-4FB2-9A09-219D8835E451}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice501", "5.配列\Practice501\Practice501.csproj", "{556E1877-A854-49EB-9980-640753F75AD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice501", "5.配列\Practice501\Practice501.csproj", "{556E1877-A854-49EB-9980-640753F75AD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice502", "5.配列\Practice502\Practice502.csproj", "{71016001-F307-4FA9-B412-F8F1EDDAF518}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice502", "5.配列\Practice502\Practice502.csproj", "{71016001-F307-4FA9-B412-F8F1EDDAF518}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice503", "5.配列\Practice503\Practice503.csproj", "{E69D0F52-F2E4-4CB4-91FC-12E104E1690D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice503", "5.配列\Practice503\Practice503.csproj", "{E69D0F52-F2E4-4CB4-91FC-12E104E1690D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice504", "5.配列\Practice504\Practice504.csproj", "{81401E5F-263B-41A3-B6A6-D0EE9EF7EE0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice504", "5.配列\Practice504\Practice504.csproj", "{81401E5F-263B-41A3-B6A6-D0EE9EF7EE0B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.一番基本的な処理", "1.一番基本的な処理", "{082B3696-36BC-465B-9487-1275C108C365}"
 EndProject
@@ -85,7 +85,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.繰り返し", "4.繰り�
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.配列", "5.配列", "{F31CEBE1-4135-40CF-9FC2-0BFCFD8CA0ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice204", "2.変数と演算\Practice204\Practice204.csproj", "{07AB046F-FD3E-4195-9FB2-E0803B095A7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice204", "2.変数と演算\Practice204\Practice204.csproj", "{07AB046F-FD3E-4195-9FB2-E0803B095A7C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9.クラス", "9.クラス", "{5D037CBA-DF6F-4368-98BB-5E54EA347809}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice901", "9.クラス\Practice901\Practice901.csproj", "{97EF3578-BFFF-45F1-BDDC-F49390A44477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice902", "9.クラス\Practice902\Practice902.csproj", "{8BF75933-F2ED-400D-BD04-002C865537EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -241,6 +247,14 @@ Global
 		{07AB046F-FD3E-4195-9FB2-E0803B095A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07AB046F-FD3E-4195-9FB2-E0803B095A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07AB046F-FD3E-4195-9FB2-E0803B095A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97EF3578-BFFF-45F1-BDDC-F49390A44477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97EF3578-BFFF-45F1-BDDC-F49390A44477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97EF3578-BFFF-45F1-BDDC-F49390A44477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97EF3578-BFFF-45F1-BDDC-F49390A44477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BF75933-F2ED-400D-BD04-002C865537EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF75933-F2ED-400D-BD04-002C865537EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF75933-F2ED-400D-BD04-002C865537EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF75933-F2ED-400D-BD04-002C865537EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -283,6 +297,8 @@ Global
 		{E69D0F52-F2E4-4CB4-91FC-12E104E1690D} = {F31CEBE1-4135-40CF-9FC2-0BFCFD8CA0ED}
 		{81401E5F-263B-41A3-B6A6-D0EE9EF7EE0B} = {F31CEBE1-4135-40CF-9FC2-0BFCFD8CA0ED}
 		{07AB046F-FD3E-4195-9FB2-E0803B095A7C} = {000039E3-C6AD-4A61-A920-0A955B482CF8}
+		{97EF3578-BFFF-45F1-BDDC-F49390A44477} = {5D037CBA-DF6F-4368-98BB-5E54EA347809}
+		{8BF75933-F2ED-400D-BD04-002C865537EE} = {5D037CBA-DF6F-4368-98BB-5E54EA347809}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {96E66DB8-E207-463A-8EA9-FF6C4318679A}
