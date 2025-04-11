@@ -9,7 +9,8 @@
             int[] randamArray = new int[randNumGenerateCount];
 
             // Point: 今回は、0以上100未満という範囲が分かっているので、適切な初期値を設定可能。
-            // Point: 範囲が分からない場合は配列を作るループの後で、探索のループを行う。 
+            // Point: 範囲が分からない場合は先頭の要素を暫定の最大値・最小値として探索を行う（M-1グランプリや歌うま選手権）
+            
             int max = 0;
             int min = 100;
             int sum = 0;
