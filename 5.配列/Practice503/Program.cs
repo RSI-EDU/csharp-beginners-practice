@@ -15,7 +15,7 @@
             for (int i = 0; i < randNumGenerateCount; i++)
             {
                 Random rand = new Random();
-                int temp = rand.Next(1, 20);
+                int temp = rand.Next(1, 100);
 
                 // 配列を探索して、重複していなければ代入
                 bool isDuplication = false;
