@@ -28,6 +28,10 @@
                 Random rand = new Random();
                 randamArray[i] = rand.Next(1, 100);
 
+                // C#での乱数生成は、1000ミリ秒置きに行わないと同一の値を出力してしまうため、実行を待つ処理を追加
+                // ※繰り返し処理の中で何度も乱数を生成するような場合に用いる。
+                System.Threading.Thread.Sleep(1000);
+
                 // 最大値の探索
                 if (max < randamArray[i])
                 {
